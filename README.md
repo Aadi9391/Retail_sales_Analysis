@@ -1,4 +1,4 @@
-Retail Sales Analysis 
+## Retail Sales Analysis 
 Built a relational database and ingested a retail transactions dataset to support analytical queries. Cleaned data by identifying and removing records with missing or null values to ensure data integrity. Conducted exploratory data analysis (EDA) using SQL aggregations, window functions, and conditional logic to derive insights.
 Solved business-driven questions such as:
 Sales breakdown by product category, Top customers by revenue, Monthly trends & best selling months, Customer demographics (age, gender), Transactions by time-of-day (morning, afternoon, evening), Presented findings and summaries highlighting sales patterns, customer behaviour, and category performance.
